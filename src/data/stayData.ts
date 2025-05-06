@@ -16,7 +16,7 @@ export const stayOptions: StayOption[] = [
     location: 'Udaipur',
     price: '₹2,500',
     features: ['Breakfast Included', 'Room for 4', 'Lake View'],
-    image: 'https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/635737785.jpg?k=d5c3f33c42f4ab4dd8e163dabebf88049159747e36039cd40c258cf370cd153d&o=&hp=1',
     bookingUrl: 'https://www.booking.com'
   },
   {
