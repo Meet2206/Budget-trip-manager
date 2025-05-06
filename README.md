@@ -1,6 +1,3 @@
-Here is your complete `README.md` file, already formatted in Markdown. You can copy and paste it directly into your repository:
-
-
 # Budget Trip Manager
 
 **Budget Trip Manager** is a web application designed to help users plan and manage their travel expenses efficiently. It provides tools to set budgets, track expenses, and ensure that trips stay within financial limits.
@@ -98,5 +95,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 ```
-
-Would you like to add screenshots or contribution guidelines to the README as well?
